@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo {
+    width: 311px;
+    height: 250px;
+}
+.links {
+    display: flex;
+    font-family: Arial;
+    justify-content: center;
+}
+.links div {
+    padding: 20px;
+    /* height: 10px; */
+    border: 2px solid;
+}
+.links2 div{
+    font-family: arial;
+    border: 2px solid;
+    width: 400px;
+    margin-left: 10px;
+}
+
